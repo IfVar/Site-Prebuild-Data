@@ -3,7 +3,12 @@
     cursor: crosshair;
 }
 
-/* 1A1A1A > 2E2E2E > 444444 */
+/*  
+1A1A1A > 2E2E2E > 444444
+font-family: 'Onest', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Ubuntu', sans-serif;  
+*/
 
 body {
     background-color: #1A1A1A;
